@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.uppernav {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    height: 35px;
+    background-color: rgb(58,85,8);
+}
+
+#date {
+    margin-left: 350px;
+    margin-right: 200px;
+}
+
+.feedlist{
+    line-height: 5px;
+}
+
+a {
+    padding-right: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+/* a:hover {
+    background-color: red;
+} */
+
+ul {
+    display: inline-block;
+}
+
+ul li {
+    display: inline-block;
+}
+
+.Selectlanguage {
+    margin-left: 50px;
+    display: inline-block;
+}
+
+select {
+    padding-left: 4px;
+    border-radius: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    height:30px;
+    width: 130px;
+}
+
+.centrenav {
+    padding-left: 110px;
+    background: url(https://wii.gov.in/sites/all/themes/fresh/images/head.jpg);
+    height: 80px;
+}
+
+#logo img {
+    height: 79px;
+}
+
+#logo span {
+    color: white;
+    font-size: 12px;
+    margin-left: -240px;
+}
+
+.logo2 {
+    display: inline-block;
+}
+
+
